@@ -1,0 +1,49 @@
+.post {
+    background-color: #DCDCDC;
+    
+}
+
+.instagram-header {
+    text-align: center;
+}
+
+.card-image img {
+    width: 100%;
+    height: auto;
+
+}
+
+.card header {
+display: flex;
+
+}
+
+.card-comments {
+ padding-top: 0px;
+ background-color: white;
+}
+
+.h2 {
+    font-weight: 10px;
+}
+
+.card-header text {
+background-color: white;
+}
+
+.instagram-card {
+margin: auto;
+width: 50%;
+
+}
+
+.card-header-title {
+    width: 70%;
+    height: auto;
+
+}
+
+.card-header-date {
+    width: 30%;
+    height: auto;
+}
